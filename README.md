@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ! 🌱
 
 - 💭 data
 - 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the realms of web3 + algorithmic trading
@@ -6,7 +6,7 @@
 - 🀄 3 YOE + MS DS
   
 
-![braxtonb46](https://github.com/braxtonb46/braxtonb46/blob/d5348a14fea28ccea9a29fc7b7d32fadbfc139b2/cloudgif.gif)
+    ![braxtonb46](https://github.com/braxtonb46/braxtonb46/blob/d5348a14fea28ccea9a29fc7b7d32fadbfc139b2/cloudgif.gif)
   
 
   
