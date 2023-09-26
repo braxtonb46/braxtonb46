@@ -2,6 +2,8 @@
 
 - 💭 data
 
+- [braxtonb46](https:github.com/braxtonb46/main/cloudgif.gif)
+
 - 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the realms of web3 + algorithmic trading
 - 🪶 always interested in new ML concepts, data visualization tools, and emerging tech
 - 🀄 3 YOE + MS DS
