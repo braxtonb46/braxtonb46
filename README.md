@@ -2,8 +2,6 @@
 
 - 💭 data
 
-<iframe src="https://giphy.com/embed/hRLz2uLh5AX1zPsjOS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loading-load-nadmitr-hRLz2uLh5AX1zPsjOS">via GIPHY</a></p>
-
 - 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the realms of web3 + algorithmic trading
 - 🪶 always interested in new ML concepts, data visualization tools, and emerging tech
 - 🀄 3 YOE + MS DS
