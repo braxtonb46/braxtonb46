@@ -4,7 +4,9 @@
 - 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the realms of web3 + algorithmic trading
 - 🪶 always interested in new ML concepts, data visualization tools, and emerging tech
 - 🀄 3 YOE + MS DS
-- 🎲 let's optimize! 
+- 🎲 let's optimize!
+- 🧰 python, sql, Power BI, Databricks
+- 🔨 pandas, numpy, pyspark, seaborn, matplotlib, scikit, keras, tensorflow, SHAP
   
 
     ![braxtonb46](https://github.com/braxtonb46/braxtonb46/blob/d5348a14fea28ccea9a29fc7b7d32fadbfc139b2/cloudgif.gif)
