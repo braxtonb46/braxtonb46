@@ -1,14 +1,11 @@
 ### Hello ! 🌱
 
 - 💭 data
-- 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the realms of algorithmic trading, data engineering, and econometric modeling
+- 👣 working on healthcare marketing ML models, staying sharp on mathematical concepts & exploring the branches of algorithmic trading, data engineering, and econometric modeling
 - 🪶 always interested in new ML concepts, data visualization tools, and emerging tech
 - 🀄 4 YOE + MS DS
 - 🧰 python, sql, Power BI, Databricks
 - 🔨 pandas, numpy, pyspark, seaborn, matplotlib, scikit, keras, tensorflow, SHAP
-  
-
-    ![braxtonb46](https://github.com/braxtonb46/braxtonb46/blob/d5348a14fea28ccea9a29fc7b7d32fadbfc139b2/cloudgif.gif)
 
 
 <!--
